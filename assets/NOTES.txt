@@ -1,0 +1,21 @@
+ASSETS — South Texas Charters Preview v2
+========================================
+
+tide-mark-seal.png
+  Source: user-supplied /home/box/agent-data/agents/d36eb294-0bfa-438d-9b2f-07b91a83d78c/attachments/6ae3d152a7940526cd6bea4dd40d961ad20d827c7a5c42a26212b48a5b03c58a.jpeg
+  Preserved copy: assets/tide-mark-seal-source.jpeg
+  1024×1024 RGBA circular Tide Mark Saltwater Logbook seal (copper / black, antialiased transparency mask).
+  Used as: header logo, favicon source, hero watermark, hero float,
+  mounts badge, Tide Mark band, footer mark.
+
+tide-mark-seal-256.png
+  256×256 downscale for smaller UI (contact icon).
+
+favicon-32.png / favicon-180.png / favicon-192.png
+  Generated from the seal for browser tab + apple-touch-icon.
+
+REAL FISHING PHOTOS
+  Local South Texas fishing and catch photos live in assets/photos/.
+  The hero uses the processed hero-blend.jpeg (supplied sunset angler + cast-net blend);
+  cast-net-hero.jpg is retained as an alternate. The photo grid also includes the
+  supplied sunset-angler-boat.jpg plus catch and boat-day photos. No stock underwater imagery.
